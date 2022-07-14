@@ -1,0 +1,22 @@
+{
+  "name": "sprint1-modulo4",
+  "version": "1.0.0",
+  "description": "Mini projeto - sprint 1, modulo 4 Resilia Educação ",
+  "main": "app.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllanBarbozaG/sprint1-modulo4.git"
+  },
+  "author": "allanbarbozag",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/AllanBarbozaG/sprint1-modulo4/issues"
+  },
+  "homepage": "https://github.com/AllanBarbozaG/sprint1-modulo4#readme",  
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
