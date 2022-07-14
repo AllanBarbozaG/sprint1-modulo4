@@ -15,7 +15,7 @@ function adicionaItens() {
 };
 
 function exibeLista() {
-  lista.sort().map((item) => console.log(item)); 
+  lista.sort().map((item) => console.log(`${lista.indexOf(item)+1}. ${item}`)); 
 };
 
 adicionaItens();
